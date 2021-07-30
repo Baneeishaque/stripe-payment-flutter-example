@@ -1,10 +1,10 @@
 # stripe_payment_example
 
-[//]: # (<a href="https://gitpod.io/#https://gitlab.com/javarc/edapt_public/tree/development"><img src="https://icons-for-free.com/iconfiles/png/512/gitpod-1324440164066425542.png" alt="Gitpod IDE" width="100" height="100"></a>)
+[//]: # (<a href="https://gitpod.io/#https://github.com/Baneeishaque/stripe-payment-flutter-example"><img src="https://icons-for-free.com/iconfiles/png/512/gitpod-1324440164066425542.png" alt="Gitpod IDE" width="100" height="100"></a>)
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgitlab.com%2Fjavarc%2Fedapt_public&cloudshell_git_branch=development)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/stripe-payment-flutter-example)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/javarc/edapt_public/tree/development)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/stripe-payment-flutter-example)
 
 Demonstrates how to use the stripe_payment plugin.
 
